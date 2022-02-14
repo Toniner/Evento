@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c439f32-7346-45b0-9a7e-19a8b94b94c0": {
+      "ProjectGuid": "4c439f32-7346-45b0-9a7e-19a8b94b94c0",
+      "DisplayName": "ProEventos.Domain",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

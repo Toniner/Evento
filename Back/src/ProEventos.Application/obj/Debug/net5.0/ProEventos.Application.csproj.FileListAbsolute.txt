@@ -1,0 +1,17 @@
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\Users\tonin\OneDrive\Área de Trabalho\ProEventos\back\src\ProEventos.application\obj\Debug\net5.0\ProEventos.Application.pdb

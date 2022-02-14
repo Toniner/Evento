@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f92204dd-4f9a-42f5-8535-7fd2a9dbfa8f": {
+      "ProjectGuid": "f92204dd-4f9a-42f5-8535-7fd2a9dbfa8f",
+      "DisplayName": "ProEventos.Persistence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

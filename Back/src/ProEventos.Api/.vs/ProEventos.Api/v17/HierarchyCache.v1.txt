@@ -1,0 +1,267 @@
+﻿++Solução 'ProEventos.Api' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:ProEventos.Api.sln
+++ProEventos.Api
+i:{00000000-0000-0000-0000-000000000000}:ProEventos.Api
+++Connected Services 
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>249
+++Banco de Dados do SQL Server
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>286
+++Dependências
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>248
+++Analisadores
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:analisadores
+++Estruturas
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:estruturas
+++Pacotes
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:pacotes
+++Properties
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\properties\
+++launchSettings.json
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\properties\launchsettings.json
+++Controllers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\controllers\
+++EventosController.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\controllers\eventoscontroller.cs
+++Data
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\
+++Migrations
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\migrations\
+++20220201214810_initial.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\migrations\20220201214810_initial.cs
+++DataContextModelSnapshot.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\migrations\datacontextmodelsnapshot.cs
+++DataContext.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\datacontext.cs
+++Models
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\models\
+++newclass.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\models\newclass.cs
+++appsettings.json
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\appsettings.json
+++ProEventos.db
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\proeventos.db
+++Program.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\program.cs
+++Startup.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\startup.cs
+++Foi detectada a dependência de Banco de Dados do SQL Server
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>287
+++Microsoft.AspNetCore.Analyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\program files\dotnet\sdk\5.0.404\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\program files\dotnet\sdk\5.0.404\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\program files\dotnet\sdk\5.0.404\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\program files\dotnet\sdk\5.0.404\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\program files\dotnet\sdk\5.0.404\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.2)
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>267
+++Microsoft.EntityFrameworkCore.Design (5.0.2)
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>268
+++Microsoft.EntityFrameworkCore.Sqlite (5.0.2)
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>270
+++Microsoft.EntityFrameworkCore.Tools (5.0.2)
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>271
+++Swashbuckle.AspNetCore (5.6.3)
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:>269
+++20220201214810_initial.Designer.cs
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\data\migrations\20220201214810_initial.designer.cs
+++appsettings.Development.json
+i:{93e7b36f-48d2-4d19-b7e6-2fe19acb631f}:c:\users\tonin\onedrive\área de trabalho\proeventos\back\src\proeventos.api\appsettings.development.json
+++bin
+++Debug
+++net5.0
+++ref
+++runtimes
+++Humanizer.dll
+++Microsoft.Data.Sqlite.dll
+++Microsoft.DotNet.PlatformAbstractions.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+++Microsoft.EntityFrameworkCore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+++Microsoft.EntityFrameworkCore.Sqlite.dll
+++Microsoft.Extensions.DependencyInjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+++Microsoft.OpenApi.dll
+++ProEventos.Api.deps.json
+++ProEventos.Api.dll
+++ProEventos.Api.exe
+++ProEventos.Api.pdb
+++ProEventos.Api.runtimeconfig.dev.json
+++ProEventos.Api.runtimeconfig.json
+++SQLitePCLRaw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+++SQLitePCLRaw.nativelibrary.dll
+++SQLitePCLRaw.provider.dynamic_cdecl.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+++System.Diagnostics.DiagnosticSource.dll
+++alpine-x64
+++linux-arm
+++linux-arm64
+++linux-armel
+++linux-mips64
+++linux-musl-x64
+++linux-x64
+++linux-x86
+++osx-x64
+++win-arm
+++win-arm64
+++win-x64
+++win-x86
+++native
+++libe_sqlite3.so
+++libe_sqlite3.dylib
+++e_sqlite3.dll
+++obj
+++ProEventos.Api.csproj.EntityFrameworkCore.targets
+++ProEventos.Api.csproj.nuget.dgspec.json
+++ProEventos.Api.csproj.nuget.g.props
+++ProEventos.Api.csproj.nuget.g.targets
+++project.assets.json
+++project.nuget.cache
+++staticwebassets
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+++apphost.exe
+++ProEventos.Api.AssemblyInfo.cs
+++ProEventos.Api.AssemblyInfoInputs.cache
+++ProEventos.Api.assets.cache
+++ProEventos.Api.csproj.AssemblyReference.cache
+++ProEventos.Api.csproj.CopyComplete
+++ProEventos.Api.csproj.CoreCompileInputs.cache
+++ProEventos.Api.csproj.FileListAbsolute.txt
+++ProEventos.Api.GeneratedMSBuildEditorConfig.editorconfig
+++ProEventos.Api.genruntimeconfig.cache
+++ProEventos.Api.MvcApplicationPartsAssemblyInfo.cache
+++ProEventos.Api.MvcApplicationPartsAssemblyInfo.cs
+++ProEventos.Api.RazorTargetAssemblyInfo.cache
+++project.razor.json
+++ProEventos.Api.StaticWebAssets.Manifest.cache
+++ProEventos.Api.StaticWebAssets.xml
+++Importações
+++Sdk.props
+++Sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\5.0.404\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++NuGet.Build.Tasks.Pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++FileSystem.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+++Swashbuckle.AspNetCore.props
+++Microsoft.EntityFrameworkCore.Design.props
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+++Microsoft.Docker.targets
+++Microsoft.Web.IISSupport.targets
